@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# PyCharm
+.idea/
+
+# ОС
+Thumbs.db
+.DS_Store
+
+# Пользовательские настройки (создаются при запуске)
+.ferestruct_config.json
+.ferestruct_presets.json
